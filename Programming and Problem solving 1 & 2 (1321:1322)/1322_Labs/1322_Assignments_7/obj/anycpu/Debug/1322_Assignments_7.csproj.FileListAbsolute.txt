@@ -1,0 +1,6 @@
+/Users/milowilson/Projects/1322_Labs/1322_Assignments_7/bin/Debug/1322_Assignments_7.exe
+/Users/milowilson/Projects/1322_Labs/1322_Assignments_7/bin/Debug/1322_Assignments_7.pdb
+/Users/milowilson/Projects/1322_Labs/1322_Assignments_7/obj/anycpu/Debug/1322_Assignments_7.csprojAssemblyReference.cache
+/Users/milowilson/Projects/1322_Labs/1322_Assignments_7/obj/anycpu/Debug/1322_Assignments_7.csproj.CoreCompileInputs.cache
+/Users/milowilson/Projects/1322_Labs/1322_Assignments_7/obj/anycpu/Debug/1322_Assignments_7.exe
+/Users/milowilson/Projects/1322_Labs/1322_Assignments_7/obj/anycpu/Debug/1322_Assignments_7.pdb

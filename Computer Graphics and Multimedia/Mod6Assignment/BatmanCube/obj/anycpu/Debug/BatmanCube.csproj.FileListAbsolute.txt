@@ -1,0 +1,2 @@
+/Users/milowilson/Projects/Mod6Assignment/BatmanCube/obj/anycpu/Debug/BatmanCube.csproj.AssemblyReference.cache
+/Users/milowilson/Projects/Mod6Assignment/BatmanCube/obj/anycpu/Debug/BatmanCube.csproj.CoreCompileInputs.cache

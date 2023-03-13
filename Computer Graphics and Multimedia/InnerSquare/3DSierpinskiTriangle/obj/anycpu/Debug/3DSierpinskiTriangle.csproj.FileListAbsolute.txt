@@ -1,0 +1,2 @@
+/Users/milowilson/Projects/InnerSquare/3DSierpinskiTriangle/obj/anycpu/Debug/3DSierpinskiTriangle.csproj.AssemblyReference.cache
+/Users/milowilson/Projects/InnerSquare/3DSierpinskiTriangle/obj/anycpu/Debug/3DSierpinskiTriangle.csproj.CoreCompileInputs.cache

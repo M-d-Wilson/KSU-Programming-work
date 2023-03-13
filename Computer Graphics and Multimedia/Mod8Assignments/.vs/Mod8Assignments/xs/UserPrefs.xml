@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C8F9BC4D-F3BF-40DE-8C4B-3A89EE5BD441}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RunningRobot/RunningRobot.html">
+    <Files>
+      <File FileName="MoveArm/RobotArm.html" Line="16" Column="33" />
+      <File FileName="MoveArm/RobotArm.js" Line="329" Column="14" />
+      <File FileName="RunningRobot/RunningRobot.html" Line="16" Column="31" />
+      <File FileName="RunningRobot/RunningRobot.js" Line="310" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mod8Assignments" expanded="True">
+            <Node name="RobotArm" expanded="True" />
+            <Node name="RunningRobot" expanded="True">
+              <Node name="RunningRobot.html" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Mod8Assignments PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,68 @@
+﻿<Properties StartupConfiguration="{AFB0EFA4-BAF0-495F-A78B-1AD83B03A743}|Default">
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__10-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__1-5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__10-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__1-3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__5-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__6-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__14-2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__3-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__7-2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__1-4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__5-3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__14-1 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__3-3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="1321_Lab_12-3/Program.cs">
+    <Files>
+      <File FileName="1321_Lab_12-3/Program.cs" Line="49" Column="55" />
+      <File FileName="1321_Lab_12-2/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="1321_Labs" expanded="True">
+            <Node name="1321_Lab_12-2" expanded="True" />
+            <Node name="1321_Lab_12-3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="1321_Lab_9-3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__9-3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__8-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__2-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__1-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__6-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__11-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__4-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__4-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__9-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__13-3 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__12-3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__7-3 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__12-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__12-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__5-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__13-2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__2-3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__6-3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__9-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__8-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__11-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__3-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__7-1 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__8-3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__2-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__1-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__13-1 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.1321__Lab__4-3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

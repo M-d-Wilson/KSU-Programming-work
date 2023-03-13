@@ -1,0 +1,2 @@
+/Users/milowilson/Projects/Mod5Assignments/TetraToSphere/obj/anycpu/Debug/TetraToSphere.csproj.AssemblyReference.cache
+/Users/milowilson/Projects/Mod5Assignments/TetraToSphere/obj/anycpu/Debug/TetraToSphere.csproj.CoreCompileInputs.cache

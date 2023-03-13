@@ -1,0 +1,5 @@
+/Users/milowilson/Projects/1322_Labs/1322_Assignment_6/obj/anycpu/Debug/1322_Assignment_6.csproj.CoreCompileInputs.cache
+/Users/milowilson/Projects/1322_Labs/1322_Assignment_6/bin/Debug/1322_Assignment_6.exe
+/Users/milowilson/Projects/1322_Labs/1322_Assignment_6/bin/Debug/1322_Assignment_6.pdb
+/Users/milowilson/Projects/1322_Labs/1322_Assignment_6/obj/anycpu/Debug/1322_Assignment_6.exe
+/Users/milowilson/Projects/1322_Labs/1322_Assignment_6/obj/anycpu/Debug/1322_Assignment_6.pdb

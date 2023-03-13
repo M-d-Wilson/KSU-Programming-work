@@ -1,0 +1,2 @@
+/Users/milowilson/Projects/Mod8Assignments/Mod8Assignments/obj/Debug/Mod8Assignments.csproj.AssemblyReference.cache
+/Users/milowilson/Projects/Mod8Assignments/Mod8Assignments/obj/Debug/Mod8Assignments.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+/Users/milowilson/Projects/InnerSquare/InnerSquare/obj/Debug/InnerSquare.csproj.AssemblyReference.cache
+/Users/milowilson/Projects/InnerSquare/InnerSquare/obj/Debug/InnerSquare.csproj.CoreCompileInputs.cache

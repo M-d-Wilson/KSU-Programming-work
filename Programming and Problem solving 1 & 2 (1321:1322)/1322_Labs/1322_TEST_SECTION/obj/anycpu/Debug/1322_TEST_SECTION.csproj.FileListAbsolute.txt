@@ -1,0 +1,6 @@
+/Users/milowilson/Projects/1322_Labs/1322_TEST_SECTION/bin/Debug/1322_TEST_SECTION.exe
+/Users/milowilson/Projects/1322_Labs/1322_TEST_SECTION/bin/Debug/1322_TEST_SECTION.pdb
+/Users/milowilson/Projects/1322_Labs/1322_TEST_SECTION/obj/anycpu/Debug/1322_TEST_SECTION.exe
+/Users/milowilson/Projects/1322_Labs/1322_TEST_SECTION/obj/anycpu/Debug/1322_TEST_SECTION.pdb
+/Users/milowilson/Projects/1322_Labs/1322_TEST_SECTION/obj/anycpu/Debug/1322_TEST_SECTION.csprojAssemblyReference.cache
+/Users/milowilson/Projects/1322_Labs/1322_TEST_SECTION/obj/anycpu/Debug/1322_TEST_SECTION.csproj.CoreCompileInputs.cache

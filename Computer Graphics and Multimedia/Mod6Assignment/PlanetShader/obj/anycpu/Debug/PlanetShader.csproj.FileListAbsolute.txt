@@ -1,0 +1,2 @@
+/Users/milowilson/Projects/Mod6Assignment/PlanetShader/obj/anycpu/Debug/PlanetShader.csproj.AssemblyReference.cache
+/Users/milowilson/Projects/Mod6Assignment/PlanetShader/obj/anycpu/Debug/PlanetShader.csproj.CoreCompileInputs.cache

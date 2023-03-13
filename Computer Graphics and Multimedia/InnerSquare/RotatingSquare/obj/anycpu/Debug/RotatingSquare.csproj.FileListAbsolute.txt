@@ -1,0 +1,2 @@
+/Users/milowilson/Projects/InnerSquare/RotatingSquare/obj/anycpu/Debug/RotatingSquare.csproj.AssemblyReference.cache
+/Users/milowilson/Projects/InnerSquare/RotatingSquare/obj/anycpu/Debug/RotatingSquare.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+/Users/milowilson/Projects/1322_Labs/1322_Lab_10/bin/Debug/1322_Lab_10.exe
+/Users/milowilson/Projects/1322_Labs/1322_Lab_10/bin/Debug/1322_Lab_10.pdb
+/Users/milowilson/Projects/1322_Labs/1322_Lab_10/obj/anycpu/Debug/1322_Lab_10.csprojAssemblyReference.cache
+/Users/milowilson/Projects/1322_Labs/1322_Lab_10/obj/anycpu/Debug/1322_Lab_10.exe
+/Users/milowilson/Projects/1322_Labs/1322_Lab_10/obj/anycpu/Debug/1322_Lab_10.pdb
+/Users/milowilson/Projects/1322_Labs/1322_Lab_10/obj/anycpu/Debug/1322_Lab_10.csproj.CoreCompileInputs.cache

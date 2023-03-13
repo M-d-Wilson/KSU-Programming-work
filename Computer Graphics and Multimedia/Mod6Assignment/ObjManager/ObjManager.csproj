@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{F30F8EF1-DD9D-4873-862D-E7579672F593}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <RootNamespace>ObjManager</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
+    <IntermediateOutputPath>obj\anycpu\Debug</IntermediateOutputPath>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|anycpu' ">
+    <IntermediateOutputPath>obj\anycpu\Release</IntermediateOutputPath>
+    <Optimize>true</Optimize>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="ObjManager.html" />
+    <None Include="ObjManager.js" />
+    <None Include="Objs\battledrone.js" />
+    <None Include="Objs\duck.js" />
+    <None Include="Objs\female02.js" />
+    <None Include="Objs\male02.js" />
+    <None Include="Objs\teapot.js" />
+    <None Include="Objs\Polyhedron.js" />
+    <None Include="Objs\tree.js" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

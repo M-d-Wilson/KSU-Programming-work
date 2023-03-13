@@ -1,0 +1,1 @@
+../build-Debug/PleaseWork/LinkedList.cpp.o ../build-Debug/PleaseWork/Nodes.cpp.o ../build-Debug/PleaseWork/main.cpp.o

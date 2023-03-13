@@ -1,0 +1,2 @@
+/Users/milowilson/Projects/Mod5Assignments/LookAtCubePerspective/obj/Debug/LookAtCubePerspective.csproj.AssemblyReference.cache
+/Users/milowilson/Projects/Mod5Assignments/LookAtCubePerspective/obj/Debug/LookAtCubePerspective.csproj.CoreCompileInputs.cache

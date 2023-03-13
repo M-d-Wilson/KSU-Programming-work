@@ -1,0 +1,1 @@
+../build-Debug/Homework_2/TicTacToe.cpp.o ../build-Debug/Homework_2/main.cpp.o

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod8Assignments", "Mod8Assignments\Mod8Assignments.csproj", "{C8F9BC4D-F3BF-40DE-8C4B-3A89EE5BD441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotArm", "MoveArm\RobotArm.csproj", "{FE7CB082-3C68-4D86-8EA3-DB0038E41605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningRobot", "RunningRobot\RunningRobot.csproj", "{E981979B-C4AA-4038-87A5-7216BEA0E231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8F9BC4D-F3BF-40DE-8C4B-3A89EE5BD441}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C8F9BC4D-F3BF-40DE-8C4B-3A89EE5BD441}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C8F9BC4D-F3BF-40DE-8C4B-3A89EE5BD441}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C8F9BC4D-F3BF-40DE-8C4B-3A89EE5BD441}.Release|anycpu.Build.0 = Release|anycpu
+		{FE7CB082-3C68-4D86-8EA3-DB0038E41605}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FE7CB082-3C68-4D86-8EA3-DB0038E41605}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FE7CB082-3C68-4D86-8EA3-DB0038E41605}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FE7CB082-3C68-4D86-8EA3-DB0038E41605}.Release|anycpu.Build.0 = Release|anycpu
+		{E981979B-C4AA-4038-87A5-7216BEA0E231}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E981979B-C4AA-4038-87A5-7216BEA0E231}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E981979B-C4AA-4038-87A5-7216BEA0E231}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E981979B-C4AA-4038-87A5-7216BEA0E231}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0407A06C-45FC-40E7-99D4-2335CA32423C}
+	EndGlobalSection
+EndGlobal

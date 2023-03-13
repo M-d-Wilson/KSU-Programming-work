@@ -1,0 +1,1 @@
+/Users/milowilson/Projects/Mod6Assignment/MoonOrbit/obj/anycpu/Debug/MoonOrbit.csproj.CoreCompileInputs.cache

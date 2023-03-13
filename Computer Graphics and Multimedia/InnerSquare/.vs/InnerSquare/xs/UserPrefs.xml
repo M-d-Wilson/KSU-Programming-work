@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{37897915-2172-4097-9686-99C6D60CCB0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JavaScriptMatrixTransforms/JavaScriptMatrixTransforms.html">
+    <Files>
+      <File FileName="RotatingSquare/RotatingSquare.js" Line="1" Column="1" />
+      <File FileName="JavaScriptMatrixTransforms/JavaScriptMatrixTransforms.html" Line="47" Column="8" />
+      <File FileName="JavaScriptMatrixTransforms/JavaScriptMatrixTransforms.js" Line="154" Column="104" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InnerSquare" expanded="True">
+            <Node name="JavaScriptMatrixTransforms" expanded="True">
+              <Node name="JavaScriptMatrixTransforms.html" selected="True" />
+            </Node>
+            <Node name="RotatingSquare" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JavaScriptMatrixTransforms FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.InnerSquare PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

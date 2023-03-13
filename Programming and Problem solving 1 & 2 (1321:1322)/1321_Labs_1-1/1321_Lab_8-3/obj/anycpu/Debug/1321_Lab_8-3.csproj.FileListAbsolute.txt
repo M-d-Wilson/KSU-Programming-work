@@ -1,0 +1,4 @@
+/Users/milowilson/Projects/1321_Labs_1-1/1321_Lab_8-3/bin/Debug/1321_Lab_8-3.exe
+/Users/milowilson/Projects/1321_Labs_1-1/1321_Lab_8-3/bin/Debug/1321_Lab_8-3.pdb
+/Users/milowilson/Projects/1321_Labs_1-1/1321_Lab_8-3/obj/anycpu/Debug/1321_Lab_8-3.exe
+/Users/milowilson/Projects/1321_Labs_1-1/1321_Lab_8-3/obj/anycpu/Debug/1321_Lab_8-3.pdb

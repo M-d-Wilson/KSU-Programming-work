@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticCube", "StaticCube\StaticCube.csproj", "{91582DE2-41F7-4FCB-9D5A-5977DDA6C8FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinningCube", "SpinningCube\SpinningCube.csproj", "{2B00196B-B98D-42EE-A3FF-40EBBB5BBFE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spinning6ColorCubeQuad", "Spinning6ColorCubeQuad\Spinning6ColorCubeQuad.csproj", "{8F135C47-534E-4C59-B1C0-3FEB24DFF15F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spinning6ColorCube", "Spinning6ColorCube\Spinning6ColorCube.csproj", "{7D484416-6C77-4917-AB95-352C35FADF24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91582DE2-41F7-4FCB-9D5A-5977DDA6C8FF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{91582DE2-41F7-4FCB-9D5A-5977DDA6C8FF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{91582DE2-41F7-4FCB-9D5A-5977DDA6C8FF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{91582DE2-41F7-4FCB-9D5A-5977DDA6C8FF}.Release|anycpu.Build.0 = Release|anycpu
+		{2B00196B-B98D-42EE-A3FF-40EBBB5BBFE6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2B00196B-B98D-42EE-A3FF-40EBBB5BBFE6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2B00196B-B98D-42EE-A3FF-40EBBB5BBFE6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2B00196B-B98D-42EE-A3FF-40EBBB5BBFE6}.Release|anycpu.Build.0 = Release|anycpu
+		{8F135C47-534E-4C59-B1C0-3FEB24DFF15F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8F135C47-534E-4C59-B1C0-3FEB24DFF15F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8F135C47-534E-4C59-B1C0-3FEB24DFF15F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8F135C47-534E-4C59-B1C0-3FEB24DFF15F}.Release|anycpu.Build.0 = Release|anycpu
+		{7D484416-6C77-4917-AB95-352C35FADF24}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{7D484416-6C77-4917-AB95-352C35FADF24}.Debug|anycpu.Build.0 = Debug|anycpu
+		{7D484416-6C77-4917-AB95-352C35FADF24}.Release|anycpu.ActiveCfg = Release|anycpu
+		{7D484416-6C77-4917-AB95-352C35FADF24}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5434BA8-0E87-46B9-8FAC-C2F7CCB94AD0}
+	EndGlobalSection
+EndGlobal

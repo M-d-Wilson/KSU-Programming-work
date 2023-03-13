@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{EA8B1FD3-8D05-4821-9877-09DA1EDF67DF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Teapot2/Teapot2.html">
+    <Files>
+      <File FileName="TetraToSphereWithLight/TetraToSphereWithLight.html" Line="77" Column="19" />
+      <File FileName="TetraToSphereWithLight/TetraToSphereWithLight.js" Line="3" Column="1" />
+      <File FileName="Teapot2/Teapot2.html" Line="73" Column="110" />
+      <File FileName="Teapot2/Teapot2.js" Line="8" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mod5Assignments" expanded="True" selected="True">
+            <Node name="Teapot2" expanded="True" />
+            <Node name="TetraToSphereWithLight" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TetraToSphereWithLight FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.LookAtCubePerspective PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Teapot2 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

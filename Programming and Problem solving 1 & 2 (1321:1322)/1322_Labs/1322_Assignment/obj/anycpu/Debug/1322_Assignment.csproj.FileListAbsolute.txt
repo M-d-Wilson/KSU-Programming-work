@@ -1,0 +1,4 @@
+/Users/milowilson/Projects/1322_Labs/1322_Assignment/bin/Debug/1322_Assignment.exe
+/Users/milowilson/Projects/1322_Labs/1322_Assignment/bin/Debug/1322_Assignment.pdb
+/Users/milowilson/Projects/1322_Labs/1322_Assignment/obj/anycpu/Debug/1322_Assignment.exe
+/Users/milowilson/Projects/1322_Labs/1322_Assignment/obj/anycpu/Debug/1322_Assignment.pdb

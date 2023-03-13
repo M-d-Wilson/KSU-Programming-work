@@ -1,0 +1,5 @@
+/Users/milowilson/Projects/1322_Labs/1322_FINAL_Q1/bin/Debug/1322_FINAL_Q1.exe
+/Users/milowilson/Projects/1322_Labs/1322_FINAL_Q1/bin/Debug/1322_FINAL_Q1.pdb
+/Users/milowilson/Projects/1322_Labs/1322_FINAL_Q1/obj/anycpu/Debug/1322_FINAL_Q1.csproj.CoreCompileInputs.cache
+/Users/milowilson/Projects/1322_Labs/1322_FINAL_Q1/obj/anycpu/Debug/1322_FINAL_Q1.exe
+/Users/milowilson/Projects/1322_Labs/1322_FINAL_Q1/obj/anycpu/Debug/1322_FINAL_Q1.pdb

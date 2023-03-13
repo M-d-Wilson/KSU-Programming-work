@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod6Assignment", "Mod6Assignment\Mod6Assignment.csproj", "{A2F956BB-C87A-4E1C-8743-5157F7691F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjManager", "ObjManager\ObjManager.csproj", "{F30F8EF1-DD9D-4873-862D-E7579672F593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetShader", "PlanetShader\PlanetShader.csproj", "{CA84EED1-A7EA-45A9-AA60-184F367DA6B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatmanCube", "BatmanCube\BatmanCube.csproj", "{0D5AEF7D-C571-4474-A6F4-6EB0176791F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonOrbit", "MoonOrbit\MoonOrbit.csproj", "{29C704E3-C1EB-4F3D-81ED-A20CF7A1A375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F956BB-C87A-4E1C-8743-5157F7691F9C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A2F956BB-C87A-4E1C-8743-5157F7691F9C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A2F956BB-C87A-4E1C-8743-5157F7691F9C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A2F956BB-C87A-4E1C-8743-5157F7691F9C}.Release|anycpu.Build.0 = Release|anycpu
+		{F30F8EF1-DD9D-4873-862D-E7579672F593}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F30F8EF1-DD9D-4873-862D-E7579672F593}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F30F8EF1-DD9D-4873-862D-E7579672F593}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F30F8EF1-DD9D-4873-862D-E7579672F593}.Release|anycpu.Build.0 = Release|anycpu
+		{CA84EED1-A7EA-45A9-AA60-184F367DA6B9}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CA84EED1-A7EA-45A9-AA60-184F367DA6B9}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CA84EED1-A7EA-45A9-AA60-184F367DA6B9}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CA84EED1-A7EA-45A9-AA60-184F367DA6B9}.Release|anycpu.Build.0 = Release|anycpu
+		{0D5AEF7D-C571-4474-A6F4-6EB0176791F7}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{0D5AEF7D-C571-4474-A6F4-6EB0176791F7}.Debug|anycpu.Build.0 = Debug|anycpu
+		{0D5AEF7D-C571-4474-A6F4-6EB0176791F7}.Release|anycpu.ActiveCfg = Release|anycpu
+		{0D5AEF7D-C571-4474-A6F4-6EB0176791F7}.Release|anycpu.Build.0 = Release|anycpu
+		{29C704E3-C1EB-4F3D-81ED-A20CF7A1A375}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{29C704E3-C1EB-4F3D-81ED-A20CF7A1A375}.Debug|anycpu.Build.0 = Debug|anycpu
+		{29C704E3-C1EB-4F3D-81ED-A20CF7A1A375}.Release|anycpu.ActiveCfg = Release|anycpu
+		{29C704E3-C1EB-4F3D-81ED-A20CF7A1A375}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A677096-241A-41A6-B61A-B853BB5B2C0F}
+	EndGlobalSection
+EndGlobal

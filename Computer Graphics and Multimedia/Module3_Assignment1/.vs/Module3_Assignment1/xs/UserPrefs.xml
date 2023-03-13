@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E52063E6-697A-4A5F-8C37-25A5E58F16F8}|Default">
+  <MonoDevelop.Ide.ItemProperties.MakeMesh FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MakePoly FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CubeTetraOcta/CubeTetraOcta.html">
+    <Files>
+      <File FileName="CubeTetraOcta/CubeTetraOcta.html" Line="64" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Module3_Assignment1" expanded="True">
+            <Node name="CubeTetraOcta" expanded="True">
+              <Node name="CubeTetraOcta.html" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CubeTetraOcta FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Change3DShape FirstBuild="True" />
+</Properties>

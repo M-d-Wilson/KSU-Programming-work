@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{22951341-A840-40B8-8BE3-37750FDF0AA8}|Default">
+  <MonoDevelop.Ide.ItemProperties.ShadowShear FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HatShapeRotate/HatShapeRotate.js">
+    <Files>
+      <File FileName="LookAtCube/LookAtCube.html" Line="43" Column="54" />
+      <File FileName="LookAtCube/LookAtCube.js" />
+      <File FileName="HatShapeRotate/HatShapeRotate.html" Line="16" Column="26" />
+      <File FileName="HatShapeRotate/HatShapeRotate.js" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mod4Assignments" expanded="True">
+            <Node name="CubeShade" expanded="True" />
+            <Node name="HatShapeRotate" expanded="True">
+              <Node name="HatShapeRotate.js" selected="True" />
+            </Node>
+            <Node name="LookAtCube" expanded="True" />
+            <Node name="Mod4Assignments" expanded="True" />
+            <Node name="ShadowShear" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Mod4Assignments FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CubeShade FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.LookAtCube FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HatShapeRotate FirstBuild="True" />
+</Properties>

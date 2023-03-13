@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{97E0CAAE-81D0-4FC2-890C-5FF6C2A6F3E1}|Default">
+  <MonoDevelop.Ide.ItemProperties.ShadowMap2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Mod7Assignments FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SkyBoxDemo FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShadowMap2/ShadowMap2.js">
+    <Files>
+      <File FileName="ObjManager/ObjManager2.html" Line="1" Column="1" />
+      <File FileName="ObjManager/ObjManager2.js" Line="3" Column="1" />
+      <File FileName="SkyBoxDemo/SkyBoxDemo.html" Line="1" Column="1" />
+      <File FileName="SkyBoxDemo/SkyBoxDemo.js" Line="189" Column="27" />
+      <File FileName="ShadowMap/ShadowMap/ShadowMap.html" Line="162" Column="8" />
+      <File FileName="ShadowMap/ShadowMap/ShadowMap.js" Line="531" Column="2" />
+      <File FileName="ShadowMap2/ShadowMap2.html" Line="131" Column="86" />
+      <File FileName="ShadowMap2/ShadowMap2.js" Line="351" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mod7Assignments" expanded="True">
+            <Node name="Mod7Assignments" expanded="True" />
+            <Node name="ObjManager2" expanded="True" />
+            <Node name="ShadowMap" expanded="True" />
+            <Node name="ShadowMap2" expanded="True">
+              <Node name="ShadowMap2.js" selected="True" />
+            </Node>
+            <Node name="SkyBoxDemo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Mod7Assignments" expanded="True" selected="True">
+            <Node name="Mod7Assignments" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ObjManager2 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.ShadowMap FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

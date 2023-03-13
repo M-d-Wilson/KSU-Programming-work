@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LookAtCubePerspective", "LookAtCubePerspective\LookAtCubePerspective.csproj", "{EA8B1FD3-8D05-4821-9877-09DA1EDF67DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetraToSphere", "TetraToSphere\TetraToSphere.csproj", "{0B30572D-3AF3-4760-B861-9CAC295D3AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetraToSphereWithLight", "TetraToSphereWithLight\TetraToSphereWithLight.csproj", "{923B2CFF-4C80-454E-9C23-333287DC6DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teapot2", "Teapot2\Teapot2.csproj", "{EB806CD0-AADC-4745-AC57-85D0A62EB7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA8B1FD3-8D05-4821-9877-09DA1EDF67DF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EA8B1FD3-8D05-4821-9877-09DA1EDF67DF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EA8B1FD3-8D05-4821-9877-09DA1EDF67DF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EA8B1FD3-8D05-4821-9877-09DA1EDF67DF}.Release|anycpu.Build.0 = Release|anycpu
+		{0B30572D-3AF3-4760-B861-9CAC295D3AB3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{0B30572D-3AF3-4760-B861-9CAC295D3AB3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{0B30572D-3AF3-4760-B861-9CAC295D3AB3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{0B30572D-3AF3-4760-B861-9CAC295D3AB3}.Release|anycpu.Build.0 = Release|anycpu
+		{923B2CFF-4C80-454E-9C23-333287DC6DBC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{923B2CFF-4C80-454E-9C23-333287DC6DBC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{923B2CFF-4C80-454E-9C23-333287DC6DBC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{923B2CFF-4C80-454E-9C23-333287DC6DBC}.Release|anycpu.Build.0 = Release|anycpu
+		{EB806CD0-AADC-4745-AC57-85D0A62EB7EC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EB806CD0-AADC-4745-AC57-85D0A62EB7EC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EB806CD0-AADC-4745-AC57-85D0A62EB7EC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EB806CD0-AADC-4745-AC57-85D0A62EB7EC}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ACF37C8-B028-4CA1-88FA-CDC618CC915E}
+	EndGlobalSection
+EndGlobal
